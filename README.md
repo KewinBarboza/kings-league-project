@@ -11,9 +11,9 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/midudev/sueldos.dev/pull/44) in [midudev/sueldos.dev](https://github.com/midudev/sueldos.dev)
-2. 💪 Opened PR [#35](https://github.com/midudev/sueldos.dev/pull/35) in [midudev/sueldos.dev](https://github.com/midudev/sueldos.dev)
-3. 💪 Opened PR [#326](https://github.com/midudev/kings-league-project/pull/326) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+1. ❗️ Opened issue [#23](https://github.com/midudev/aprende-javascript-problemas/issues/23) in [midudev/aprende-javascript-problemas](https://github.com/midudev/aprende-javascript-problemas)
+2. 💪 Opened PR [#44](https://github.com/midudev/sueldos.dev/pull/44) in [midudev/sueldos.dev](https://github.com/midudev/sueldos.dev)
+3. 💪 Opened PR [#35](https://github.com/midudev/sueldos.dev/pull/35) in [midudev/sueldos.dev](https://github.com/midudev/sueldos.dev)
 4. 💪 Opened PR [#321](https://github.com/midudev/kings-league-project/pull/321) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
 5. 💪 Opened PR [#320](https://github.com/midudev/kings-league-project/pull/320) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
 <!--END_SECTION:activity-->
